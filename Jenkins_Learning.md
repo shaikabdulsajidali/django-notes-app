@@ -1,4 +1,5 @@
 # Jenkins Learning
+
 ### Jenkins Installation
 1. Login AWS
 2. create EC2 instance of linux os
@@ -61,9 +62,7 @@
    - Save
 
 
-NOTE:
-- Always launcch your agent first
-- Copy paste public key from controller to agent
+
 
 
 ### pipeline creation
@@ -135,3 +134,12 @@ NOTE:
     }
     ```
 6. Save
+
+---
+   
+## NOTE:
+- Always launch your agent first
+- Copy paste public key from controller to agent
+- Check security ports are enabled
+- On Stop & start of agent instance Modify Agent in jenkins (i.e., port (Host))
+  
