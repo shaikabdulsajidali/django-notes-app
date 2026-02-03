@@ -133,7 +133,7 @@
         }
     }
     ```
-6. Save
+6. Save 
 
 ---
    
@@ -141,5 +141,5 @@
 - Always launch your agent first
 - Copy paste public key from controller to agent
 - Check security ports are enabled
-- On Stop & start of agent instance Modify Agent in jenkins (i.e., port (Host))
+- On Stop & Start of agent instance Modify Agent in jenkins (i.e., port (Host))
   
